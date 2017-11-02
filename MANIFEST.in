@@ -1,0 +1,15 @@
+recursive-include doc *.py *.rst *.scss *.js *.html *.conf *.jpg *.gif *.png
+recursive-include demo *.html *.scss *.js *.csv *.template *.tmpl *.mo *.po
+recursive-include tools *.py *.sh
+
+include AUTHORS
+include ChangeLog
+include LICENSE
+include Makefile
+include manage.py
+include README.rst
+include tox.ini
+include doc/Makefile
+include doc/source/_templates/.placeholder
+include requirements.txt
+include test-requirements.txt

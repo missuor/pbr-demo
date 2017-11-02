@@ -1,0 +1,9 @@
+*.pyc
+/.egg
+/AUTHORS
+/build
+/ChangeLog
+/demo.egg-info
+/demo/media
+/db.sqlite3
+/.eggs
